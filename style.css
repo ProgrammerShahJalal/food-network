@@ -101,6 +101,13 @@ background-size: cover;
     border-radius: 25px;
     box-shadow: 5px 5px 5px 5px rgb(233, 228, 241);
 }
+#call{
+    margin-left: 305px;
+}
+ul{
+    text-align: center;
+    margin-left: 200px;
+}
 #footer{
     height: 100px;
     background-color: black;
