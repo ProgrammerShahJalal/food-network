@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.mark{
+    color: coral;
+}
+.mark2{
+    color: gray;
+}
+section{
+    display: flex;
+    padding-left: 50px;
+    padding-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    padding-right: 35px;
+    margin-bottom: 80px;
+    text-align: justify;
+}
+.link-button{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(orange, deeppink);
+    padding: 17px 40px;
+    border-radius: 30px;
+}
+.top-header{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.about-me img{
+    width: 90%;
+}
+.about-me{
+background-image: url(images/about-me-bg.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.one-third{
+    width: 23%;
+    padding: 0px 20px;
+    padding-top: 10px;
+    margin: 0px 25px;
+    box-shadow: 5px 5px 5px 5px rgb(232, 232, 235);
+    border-radius: 40px;
+}
+.one-third img{
+    border-radius: 40px;
+}
+.recipies{
+    padding-left: 100px;
+}
+.text-center{
+    text-align: center;
+}
+.fans{
+    width: 25%;
+    padding-left: 100px;
+}
+.fans p{
+    position:relative; top:-50px;
+}
+#followers{
+    height: 50px;
+    margin: 0px 100px 50px 100px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px rgb(233, 228, 241);
+}
+#footer{
+    height: 100px;
+    background-color: black;
+    padding-left: 410px;
+}
+#footer p{
+    text-align: center;
+    color: rgb(201, 191, 191);
+}
